@@ -5,7 +5,7 @@ You can schedule your messages on whatsapp-web with this project.
 ## Installation
 
 ```bash
-git clone
+git clone https://github.com/Unreol-Freedom/whatsapp-message-scheduler.git
 cd whatsapp-message-scheduler/
 pip3 install -r requirements.txt
 ```
